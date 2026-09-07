@@ -1,3 +1,3 @@
 # ViralSurveillanceSystem_v1
 
-welcome.
+Welcome. This is my first test repository in my first introduction course of my IT studies.
